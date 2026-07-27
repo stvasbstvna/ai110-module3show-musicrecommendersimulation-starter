@@ -1,11 +1,21 @@
-id,title,artist,genre,mood,energy,tempo_bpm,valence,danceability,acousticness
-1,Sunrise City,Neon Echo,pop,happy,0.82,118,0.84,0.79,0.18
-2,Midnight Coding,LoRoom,lofi,chill,0.42,78,0.56,0.62,0.71
-3,Storm Runner,Voltline,rock,intense,0.91,152,0.48,0.66,0.10
-4,Library Rain,Paper Lanterns,lofi,chill,0.35,72,0.60,0.58,0.86
-5,Gym Hero,Max Pulse,pop,intense,0.93,132,0.77,0.88,0.05
-6,Spacewalk Thoughts,Orbit Bloom,ambient,chill,0.28,60,0.65,0.41,0.92
-7,Coffee Shop Stories,Slow Stereo,jazz,relaxed,0.37,90,0.71,0.54,0.89
-8,Night Drive Loop,Neon Echo,synthwave,moody,0.75,110,0.49,0.73,0.22
-9,Focus Flow,LoRoom,lofi,focused,0.40,80,0.59,0.60,0.78
-10,Rooftop Lights,Indigo Parade,indie pop,happy,0.76,124,0.81,0.82,0.35
+id,title,artist,genre,mood,energy,tempo_bpm,valence,danceability,acousticness,popularity,release_decade,instrumentalness,speechiness,liveness
+1,Sunrise City,Neon Echo,pop,happy,0.82,118,0.84,0.79,0.18,82,2020,0.02,0.08,0.19
+2,Midnight Coding,LoRoom,lofi,chill,0.42,78,0.56,0.62,0.71,64,2020,0.72,0.05,0.10
+3,Storm Runner,Voltline,rock,intense,0.91,152,0.48,0.66,0.10,73,2010,0.03,0.09,0.72
+4,Library Rain,Paper Lanterns,lofi,chill,0.35,72,0.60,0.58,0.86,58,2020,0.81,0.04,0.08
+5,Gym Hero,Max Pulse,pop,intense,0.93,132,0.77,0.88,0.05,91,2020,0.00,0.10,0.32
+6,Spacewalk Thoughts,Orbit Bloom,ambient,chill,0.28,60,0.65,0.41,0.92,49,2010,0.94,0.02,0.06
+7,Coffee Shop Stories,Slow Stereo,jazz,relaxed,0.37,90,0.71,0.54,0.89,55,2000,0.45,0.06,0.22
+8,Night Drive Loop,Neon Echo,synthwave,moody,0.75,110,0.49,0.73,0.22,76,2010,0.68,0.04,0.15
+9,Focus Flow,LoRoom,lofi,focused,0.40,80,0.59,0.60,0.78,62,2020,0.84,0.05,0.07
+10,Rooftop Lights,Indigo Parade,indie pop,happy,0.76,124,0.81,0.82,0.35,79,2020,0.08,0.07,0.25
+11,Desert Strings,Sol Caravan,folk,reflective,0.44,96,0.63,0.48,0.91,46,1990,0.37,0.04,0.18
+12,Chrome Pulse,Digital Current,edm,euphoric,0.96,145,0.86,0.94,0.03,88,2020,0.51,0.06,0.41
+13,Blue Window,Mara Vale,blues,sad,0.32,68,0.24,0.39,0.83,51,1980,0.11,0.05,0.64
+14,Golden Hour Drive,Coastline Club,rnb,romantic,0.61,102,0.74,0.81,0.29,84,2010,0.02,0.13,0.16
+15,Concrete Poetry,North Block,hip-hop,confident,0.84,94,0.68,0.90,0.08,86,2020,0.00,0.72,0.27
+16,Cello in Winter,Ada Ensemble,classical,melancholic,0.21,56,0.31,0.18,0.96,42,2000,0.97,0.01,0.12
+17,Island Morning,Harbor Sun,reggae,happy,0.66,88,0.89,0.87,0.24,69,2010,0.04,0.08,0.35
+18,Fireline,Red Static,metal,aggressive,0.99,178,0.35,0.51,0.02,67,2020,0.06,0.16,0.81
+19,Velvet Steps,Luna Quartet,jazz,romantic,0.47,84,0.70,0.61,0.76,53,1970,0.58,0.03,0.48
+20,After the Goodbye,June Hollow,indie,sad,0.38,74,0.20,0.46,0.72,71,2020,0.09,0.07,0.20
